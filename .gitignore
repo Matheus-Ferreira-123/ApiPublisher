@@ -25,7 +25,7 @@ artifacts/
 
 # Configs locais / secrets
 appsettings.Development.json
-appsettings.Local.json
+appsettings.json
 secrets.json
 .env
 
